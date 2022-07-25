@@ -1,3 +1,8 @@
+
+<img src="https://i.ibb.co/sHNM5Vq/campus-life.png" alt="smart campus" width="650" height="300"/> 
+
+
+
 # Introduction
 Similar to smart cities, a *smart campus* utilizes smart technologies to create new experiences and services. A smart campus helps universities to differentiate from their peers because it facilitates efficient practices and eliminates outdated transactional processes. Universities in particular serve as an ideal platform to showcase smart applications to promote smart campuses. These smart technologies, which are connected to the Internet and AI-driven – can improve various aspects of the student and faculty experience on campus such as:
 
