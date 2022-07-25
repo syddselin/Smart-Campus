@@ -1,6 +1,7 @@
 
 <img src="https://i.ibb.co/sHNM5Vq/campus-life.png" alt="smart campus" width="650" height="300"/> 
 
+<img src="https://i.ibb.co/VQRPX3V/campus-life2.png" alt="smart campus" width="650" height="300"/> 
 
 
 # Introduction
